@@ -1,0 +1,33 @@
+[
+    {
+        "site": "houseofcheese.com",
+        "units": ["banner", "sidebar", "footer"],
+        "bids": [
+            {
+                "bidder": "AUCT",
+                "unit": "banner",
+                "bid": 35
+            },
+             {
+                "bidder": "shivam",
+                "unit": "footer",
+                "bid": 35
+            },
+             {
+                "bidder": "Gopi",
+                "unit": "footer",
+                "bid": 30
+            },
+            {
+                "bidder": "BIDD",
+                "unit": "sidebar",
+                "bid": 60
+            },
+            {
+                "bidder": "AUCT",
+                "unit": "sidebar",
+                "bid": 55
+            }
+        ]
+    }
+]
